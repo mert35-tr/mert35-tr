@@ -1,6 +1,4 @@
-Hi, my name is Mert;
-I am actually interested in Data Science;
-Giving my best to learn the Fundamentals of Data Science, Operations Research;
+
 
 
 
